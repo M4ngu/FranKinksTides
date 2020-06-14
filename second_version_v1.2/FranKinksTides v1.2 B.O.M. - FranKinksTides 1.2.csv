@@ -1,0 +1,59 @@
+Index,Value,Qty,Description,Specs,Package,Ref. Mouser,References
+R120 ,51,1,"Resistor, 1%",,603,603-RC0603FR-0751RL,
+"R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R71, R74, R94, R95  ",100,16,"Resistor, 1%",,603,652-CR0603FX-1000ELF,
+"R76, R83",180,2,"Resistor, 1%",,603,652-CR0603FX-1800ELF,
+"R66, R67",270,2,"Resistor, 1%",,603,652-CR0603FX-2700ELF,
+"R20, R21 ",2.49k,2,"Resistor, 1%",,603,652-CR0603FX-2491ELF,
+"R88, R89   ",2.49k,2,"Resistor, 1%",,805,652-CR0805FX-2491ELF,
+"R64, R65, R103, R106, R112, R115 ",3.3k,6,"Resistor, 1%",,603,652-CR0603-FX3301ELF,
+"R104, R105, R113, R114",4.7k,4,"Resistor, 1%",,603,652-CR0603FX-4701ELF,
+"R96, R97, R98, R99, R100, R101, R102, R107, R111, R116   ",10k,10,"Resistor, 1%",,603,652-CR0603-FX-1002GLF,
+"R52, R53 ",20k,2,"Resistor, 1%",,603,652-CR0603FX-2002ELF,
+"R28, R31",27k,2,"Resistor, 1%",,603,652-CR0603FX-2702ELF,
+"R77, R78 ",30k,2,"Resistor, 1%",,603,652-CR0603FX-3002ELF,
+"R39, R41, R42, R43, R44, R45, R84, R85, R86, R87 ",33k,10,"Resistor, 1%",,603,652-CR0603FX-3302ELF,
+"R48, R51",39k,2,"Resistor, 1%",,603,652-CR0603FX-3902ELF,
+"R17, R18, R19, R22, R23, R26, R27, R29, R30, R32, R33, R34, R35, R36, R37, R38, R40, R47, R50, R58, R59, R60, R61, R62, R63, R79, R80, R81, R82, R91, R93, R108, R109, R110, R117, R118, R119",100k,37,"Resistor, 1%",,603,652-CR0603-FX-1003GLF,
+"R24, R25,",100k,2,Resistor 1%,,603,652-CR0603-FX-1003GLF,"pulldown resistors, other values possible"
+"R54, R55, R56, R57, R70, R73 ",120k,6,"Resistor, 1%",,603,652-CR0603FX-1203ELF,
+"R1, R2, R15, R16, R72, R75, R90, R92",220k,8,"Resistor, 1%",,603,652-CR0603FX-2203ELF,
+"R46, R49 ",3.3M,2,"Resistor, 1%",,603,71-CRCW06033M30FKEA,
+C20,10p,1,"Capacitor, ceramic",">= 16V, <= 5%, C0G",603,81-GCM1885C2A100JA6J,
+"C10, C11, C12, C13 ",18p,4,"Capacitor, ceramic",,603,81-GRM185C1H180JA01J,
+"C58, C60, C62, C63, C64, C65, C70, C71",220p,8,"Capacitor, ceramic",">= 16V, <= 2%, C0G",603,81-GRM185C1H221GA01D,
+"C30, C31, C41, C43, C46, C47",1n,6,"Capacitor, ceramic",">= 50V, <= 2%, C0G",603,81-GRM1885C1H102FA1J,
+"C32, C33, C34, C35, C40, C42 ",10n,6,"Capacitor, ceramic",">= 50V, <= 5%",603,81-GCM188R71H103JA7D,
+"C1, C2, C3, C4, C14, C15, C16, C21, C22, C23, C24, C25, C26, C27, C36, C37, C38, C39, C44, C45, C48, C49, C56, C57, C59, C61, C66, C67, C68, C69 ",100n,30,"Capacitor, ceramic",>= 16V,603,80-C0603C104K4R7411,
+"C52, C53, C54, C55 ",470n,4,"Capacitor, ceramic",>= 16V,603,581-0603YG474Z,
+"C28, C29, C50, C51",3.3u,4,"Capacitor, ceramic",>= 6.3V,603,81-GCJ188C70J335KE2D,
+"C6, C7, C8, C9, C17, C18",22u,6,"Capacitor, electrolytic",>= 25V,Panasonic C,667-EEE-FP1E220AR,EEE-FP1E220AR
+"C5, C19",47u,2,"Capacitor, electrolytic",>= 25V,Panasonic D,667-EEE-FK1V470P,EEEFK1V470P
+"D4, D8 ",,2,1N5819HW diode,,SOD123,621-1N5819HW-F,Diodes Inc 1N5819HW-7-F
+"D1, D2, D3, D5, D6, D7 ",,6,1N4148,,SOD123,621-1N4148W-F,
+"IC1, IC2, IC3, IC4",3.3V,4,LM1117-3.3V LDO Vreg,,SO223,926-LM1117MPX3.3NOPB,National LM1117MPX3.3NOPB
+"IC11, IC12",2.5V,2,LM4040 Shunt Vref,"A, B or C grade",SOT23,595-LM4040C25IDBZR,Texas Instruments LM4040C25IDBZ
+"IC13, IC14",10V,2,LM4040 Shunt Vref,"A, B or C grade",SOT23,595-LM4040C10IDBZR,Texas Instruments LM4040C10IDBZ
+"IC9, IC10 ",,2,DAC8552 dual 16-bit DAC,,MSOP8,595-DAC8552IDGKT,Texas Instruments DAC8552IDGKT
+"IC15, IC16, IC17, IC18, U1, U2  ",,6,TL072 dual op-amp,,TSSOP-8,595-TL072CPWR,TI TL072CPWR
+"IC7, IC8",,2,MCP6002 dual op-amp R2R IO,,SOIC8,579-MCP6002-I/SN,MCP6002-I/SN
+"IC5, IC6 ",,2,MCP6004 dual op-amp R2R IO,,TSSOP-14,579-MCP6004-I/ST,MCP6004-I/ST
+"Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12",,10,NPN transistor MMBT3904,,SOT23,863-MMBT3904LT1G,On Semi MMBT3904LT1G
+"Q1, Q2",,2,8 MHz quartz,,HC49,815-ABLS2-8-D4Y-T,Abracon ABLS2-8.000MHZ-D4Y-T
+"UC1, UC2",,2,STM32F103CBT6 MCU,,LQFP48,511-STM32F103CBT6,ST STM32F103CBT6
+TH parts,,,,,,,
+"J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J16, J17, J18, J19, J20, J21, J22, J23, J24, J25, J26, J30, MAX, MIN, MIX",,30,Vertical jack connector,,,PJ-301-M-12,https://www.thonk.co.uk/shop/3-5mm-jacks/
+"LED1, LED2, LED3, LED4, LED5, LED6",,6,"LED, Red/Green, 3 terminals, common K",,3 terminals,604-WP115VEGW,Kingbright WP115VEGW
+"SW1, SW2, SW3, SW4",,4,Push-button 6.0X2.8MM,,,612-TL1105SP-250,E-switch TL1105SPF250Q
+,,4,Push-button caps,,,612-1R-BK,E-switch 1RBLK
+VR1,20-100k,1,ALPHA-9MM-DUALPOT,linear,,,https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/
+"R121, R122 ",,2,"10k linear pot, 15mm shaft",,,,https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/
+"R123, R124, R125, R126, R127, R128, R129, R130",,8,10k linear Tall Trimmer,,,,https://www.thonk.co.uk/shop/ttpots/
+"R68, R69 ",50k,2,"50k Trimmer resistor, 25 turns, top adjust.",,,652-3296W-1-503LF,3296W-1-503LF
+POWER,,1,"2x5 male header, 2.54mm pitch",,,649-67996-410HLF,
+"JTAG, JTAG1",,2,"2x5, 1.27mm pitch male header",,,649-221111-00010T4LF,
+UNI-BI,,1,Sub-miniature ON-ON,DPDT,,108-2MD1T1B1M2QE-EVX,https://www.thonk.co.uk/shop/sub-mini-toggle-switches/
+SYNC-A ,,1,Sub-miniature ON-OFF-ON,SPDT,,108-2MS3T1B1M2QE-EVX,
+"FM-A, SYNC-B",,2,Sub-miniature ON-ON,SPDT,,108-2MS1T1B1M2QE-EVX,https://www.thonk.co.uk/shop/sub-mini-toggle-switches/
+,,,,,,,
+,,,,,,,
+MOUSER CART (without pots and jacks),https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=9fbd7b471f,,,,,,

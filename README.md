@@ -1,5 +1,6 @@
 # FranKinksTides
 cc-by-sa original design by Émile Gillet
+https://www.tesseractmodular.com/eurorack-modules/frankinkstides-1-2
 
 ![FranKinksTides](FranKinksTides.jpg)
 

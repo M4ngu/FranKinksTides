@@ -1,5 +1,7 @@
 # FranKinksTides
 
+cc-by-sa
+
 Dual Tidal Modulator - Eurorack Module
 
 FranKinksTides is a eurorack module with 2 tidal modulators based on MI Tides1 (by Émilie Gillet) and the Swirls PCB layout  (by Electric Mist)
@@ -34,7 +36,7 @@ other small improvements for DIY:
 
 -Parts renumbered for easy DIY.
 
-## last version (v1.3):
+## last version (v1.4):
 
 -Added resistors to make the Balance pot exponential, so center position has a louder output.
 

@@ -1,6 +1,8 @@
 # FranKinksTides
 
-cc-by-sa
+cc-by-sa original design by Émile Gillet
+
+![FranKinksTides](FranKinksTides.jpg)
 
 Dual Tidal Modulator - Eurorack Module
 
